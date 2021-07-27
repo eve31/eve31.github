@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tdyso.github.io</id>
+    <id>http://localhost:4000</id>
     <title>遗忘之所</title>
-    <updated>2021-07-27T12:54:22.600Z</updated>
+    <updated>2021-07-27T13:44:01.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tdyso.github.io"/>
-    <link rel="self" href="https://tdyso.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>天地一沙鸥</subtitle>
-    <logo>https://tdyso.github.io/images/avatar.png</logo>
-    <icon>https://tdyso.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, 遗忘之所</rights>
     <entry>
         <title type="html"><![CDATA[HTML | 网页效果]]></title>
-        <id>https://tdyso.github.io/post/html-or-wang-ye-xiao-guo/</id>
-        <link href="https://tdyso.github.io/post/html-or-wang-ye-xiao-guo/">
+        <id>http://localhost:4000/post/html-or-wang-ye-xiao-guo/</id>
+        <link href="http://localhost:4000/post/html-or-wang-ye-xiao-guo/">
         </link>
         <updated>2021-07-27T11:32:02.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tdyso.github.io/post/hello-gridea/</id>
-        <link href="https://tdyso.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
