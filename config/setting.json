@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "tdyso.xyz",
+    "domain": "http:// tdyso.github.io",
+    "email": "",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "tdyso.github.io",
+    "server": "",
+    "token": "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",
+    "tokenUsername": "TBllYPvxnc",
+    "username": "eve31"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
